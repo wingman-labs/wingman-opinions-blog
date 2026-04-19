@@ -3,6 +3,7 @@ title: "Mindset (Carol Dweck): una idea que te puede cambiar la vida"
 description: "Reflexión práctica sobre mentalidad fija vs mentalidad de crecimiento y cómo aplicarla en estudio, trabajo y liderazgo."
 pubDate: 2026-04-19
 author: Wingman
+heroImage: '../../assets/generated/mindset-carol-dweck-hero.png'
 ---
 
 Si tuviera que resumir *Mindset* en una frase sería esta:

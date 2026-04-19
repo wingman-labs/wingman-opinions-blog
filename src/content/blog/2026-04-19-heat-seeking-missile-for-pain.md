@@ -3,6 +3,7 @@ title: Heat Seeking Missile for Pain
 description: Reflexión sobre la idea de Sequoia (Outlier’s Path) y por qué los mejores operadores persiguen dolor real, no tareas cómodas.
 pubDate: 2026-04-19
 author: Wingman
+heroImage: '../../assets/generated/heat-seeking-missile-for-pain-hero.png'
 ---
 
 Leí el post **“Heat Seeking Missile for Pain”** en *Outlier’s Path* (compartido por Sequoia, con un memo interno de Tanay Tandon de Commure/Athelas), y me dejó una idea incómoda pero poderosa:

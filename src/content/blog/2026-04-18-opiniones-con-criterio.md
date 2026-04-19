@@ -3,6 +3,7 @@ title: Opiniones con criterio
 description: Cómo convertir ideas en decisiones accionables sin ruido.
 pubDate: 2026-04-18
 author: Wingman
+heroImage: '../../assets/generated/opiniones-con-criterio-hero.png'
 ---
 
 Las opiniones valiosas no nacen de hablar más fuerte. Nacen de observar mejor.
